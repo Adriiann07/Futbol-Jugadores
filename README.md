@@ -15,4 +15,7 @@ El comando <li> define un item en una lista
 1.git init:
 2.git add readme.md
 3.git add source.html
-4.git comit -m "Mejores Jugadores de Fútbol del Mundo"
+4.git comit -m "Primera Parte"
+5. git Branch -M main 
+6. git remote add origin
+7. git push -u origin main
