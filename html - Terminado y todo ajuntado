@@ -114,4 +114,23 @@
     </script>
 
 </body>
+<form>
+    <label for="nombre">Nombre:</label>
+    <input type="text" id="nombre" name="nombre" required><br>
+
+    <label for="jugador">Jugador Favorito:</label>
+    <select id="jugador" name="jugador">
+        <option value="messi">Lionel Messi</option>
+        <option value="ronaldo">Cristiano Ronaldo</option>
+        <option value="neymar">Neymar Jr.</option>
+        <option value="mbappe">Kylian Mbappé</option>
+        <option value="salah">Mohamed Salah</option>
+    </select><br>
+
+    <label for="comentario">Comentario:</label><br>
+    <textarea id="comentario" name="comentario" rows="4" cols="40"></textarea><br>
+
+    <input type="submit" value="Enviar">
+</form>
+ <img src="https://e0.365dm.com/22/03/1600x900/skysports-messi-neymar-ronaldo_5695805.png?20220305194643" alt="Neymar" width="400">   
 </html>
