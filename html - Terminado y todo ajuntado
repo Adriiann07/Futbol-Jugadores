@@ -78,27 +78,28 @@
 
     <section id="messi">
         <h2>Lionel Messi</h2>
-        <p>Considerado uno de los mejores jugadores de la historia, con múltiples Balones de Oro.</p>
+        <p>Lionel Messi es considerado uno de los mejores jugadores de la historia del fútbol. Nació en Argentina y jugó la mayor parte de su carrera en el FC Barcelona, antes de unirse al PSG. Ha ganado múltiples Balones de Oro y es conocido por su increíble capacidad de driblar, su visión de juego y su capacidad para marcar goles de todo tipo.</p>
     </section>
 
     <section id="ronaldo">
         <h2>Cristiano Ronaldo</h2>
-        <p>Máximo goleador histórico de la UEFA Champions League, un icono del fútbol moderno.</p>
+        <p>Cristiano Ronaldo es otro de los gigantes del fútbol mundial. Nació en Portugal y ha jugado en clubes de renombre como el Manchester United, Real Madrid, Juventus y actualmente el Al Nassr. Con más de 900 goles en su carrera, Ronaldo es el máximo goleador histórico de la UEFA Champions League y uno de los jugadores más completos del fútbol moderno.</p>
+      <!-- Actualmente, Cristiano Ronaldo es el máximo goleador del mundo, lleva más de 900 goles -->
     </section>
 
     <section id="neymar">
         <h2>Neymar Jr.</h2>
-        <p>Un delantero brasileño conocido por su creatividad y talento técnico.</p>
+        <p>Neymar es un delantero brasileño conocido por su increíble habilidad técnica, dribles y creatividad en el campo. Después de su paso por el Santos FC en Brasil, Neymar se unió al FC Barcelona y luego al PSG. Es considerado uno de los jugadores más habilidosos y carismáticos de su generación.</p>
     </section>
 
     <section id="mbappe">
         <h2>Kylian Mbappé</h2>
-        <p>Joven estrella francesa que ganó la Copa del Mundo en 2018.</p>
+        <p>Kylian Mbappé es una de las estrellas más jóvenes y prometedoras del fútbol mundial. Nacido en Francia, juega en el PSG y ha ganado la Copa del Mundo con su selección en 2018. Es conocido por su velocidad explosiva, su capacidad para marcar goles y su madurez en el campo a pesar de su corta edad.</p>
     </section>
 
     <section id="salah">
         <h2>Mohamed Salah</h2>
-        <p>Figura clave en el Liverpool, con una increíble capacidad para marcar goles.</p>
+        <p>Mohamed Salah es un futbolista egipcio que juega para el Liverpool en la Premier League. Es conocido por su velocidad, regate y capacidad para marcar goles. Salah ha sido fundamental para el éxito de su equipo y ha ganado varios títulos, incluido la Liga de Campeones de la UEFA.</p> 
     </section>
 
     <script>
