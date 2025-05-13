@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mejores Jugadores de Fútbol del Mundo</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+        }
+
+        nav ul {
+            list-style: none;
+            display: flex;
+            justify-content: center;
+            padding: 0;
+        }
+
+        nav ul li {
+            margin: 0 15px;
+        }
+
+        nav ul li a {
+            text-decoration: none;
+            color: white;
+            background-color: #333;
+            padding: 10px;
+        }
+
+        nav ul li a:hover {
+            background-color: #575757;
+        }
+
+        section {
+            margin: 20px;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+        }
+
+        @media (max-width: 600px) {
+            nav ul {
+                flex-direction: column;
+                align-items: center;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Los Mejores Jugadores de Fútbol del Mundo</h1>
+        <nav>
+            <ul>
+                <li><a href="#messi">Lionel Messi</a></li>
+                <li><a href="#ronaldo">Cristiano Ronaldo</a></li>
+                <li><a href="#neymar">Neymar Jr.</a></li>
+                <li><a href="#mbappe">Kylian Mbappé</a></li>
+                <li><a href="#salah">Mohamed Salah</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="messi">
+        <h2>Lionel Messi</h2>
+        <p>Considerado uno de los mejores jugadores de la historia, con múltiples Balones de Oro.</p>
+    </section>
+
+    <section id="ronaldo">
+        <h2>Cristiano Ronaldo</h2>
+        <p>Máximo goleador histórico de la UEFA Champions League, un icono del fútbol moderno.</p>
+    </section>
+
+    <section id="neymar">
+        <h2>Neymar Jr.</h2>
+        <p>Un delantero brasileño conocido por su creatividad y talento técnico.</p>
+    </section>
+
+    <section id="mbappe">
+        <h2>Kylian Mbappé</h2>
+        <p>Joven estrella francesa que ganó la Copa del Mundo en 2018.</p>
+    </section>
+
+    <section id="salah">
+        <h2>Mohamed Salah</h2>
+        <p>Figura clave en el Liverpool, con una increíble capacidad para marcar goles.</p>
+    </section>
+
+    <script>
+        console.log("¡Jugadores Top!");
+    </script>
+
+</body>
+</html>
