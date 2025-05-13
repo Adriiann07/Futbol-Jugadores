@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -79,27 +80,33 @@
     <section id="messi">
         <h2>Lionel Messi</h2>
         <p>Lionel Messi es considerado uno de los mejores jugadores de la historia del fútbol. Nació en Argentina y jugó la mayor parte de su carrera en el FC Barcelona, antes de unirse al PSG. Ha ganado múltiples Balones de Oro y es conocido por su increíble capacidad de driblar, su visión de juego y su capacidad para marcar goles de todo tipo.</p>
+    <img src="https://fifpro.org/media/fhmfhvkx/messi-world-cup.jpg?rxy=0.48356841796117644,0.31512414378031967&width=1600&height=1024&rnd=133210253587130000" alt="Lionel Messi" width="400">
     </section>
 
     <section id="ronaldo">
         <h2>Cristiano Ronaldo</h2>
         <p>Cristiano Ronaldo es otro de los gigantes del fútbol mundial. Nació en Portugal y ha jugado en clubes de renombre como el Manchester United, Real Madrid, Juventus y actualmente el Al Nassr. Con más de 900 goles en su carrera, Ronaldo es el máximo goleador histórico de la UEFA Champions League y uno de los jugadores más completos del fútbol moderno.</p>
       <!-- Actualmente, Cristiano Ronaldo es el máximo goleador del mundo, lleva más de 900 goles -->
+      <img src="https://images.daznservices.com/di/library/DAZN_News/91/8c/cristiano-ronaldo-champions-league_17ak1udoiuj631316hlbv1bi1i.png?t=-6072508" alt="Cristiano Ronaldo" width="400">
     </section>
+    
 
     <section id="neymar">
         <h2>Neymar Jr.</h2>
         <p>Neymar es un delantero brasileño conocido por su increíble habilidad técnica, dribles y creatividad en el campo. Después de su paso por el Santos FC en Brasil, Neymar se unió al FC Barcelona y luego al PSG. Es considerado uno de los jugadores más habilidosos y carismáticos de su generación.</p>
+    <img src="https://e6.365dm.de/24/10/768x432/skysport_de-neymar-fussball_6723600.jpg?20241021195459" alt="Neymar" width="400">
     </section>
 
     <section id="mbappe">
         <h2>Kylian Mbappé</h2>
         <p>Kylian Mbappé es una de las estrellas más jóvenes y prometedoras del fútbol mundial. Nacido en Francia, juega en el PSG y ha ganado la Copa del Mundo con su selección en 2018. Es conocido por su velocidad explosiva, su capacidad para marcar goles y su madurez en el campo a pesar de su corta edad.</p>
+    <img src="https://images.ecestaticos.com/Aepkgy8UY7jylcelFm4G0GT5drs=/0x238:2273x1515/1338x752/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fce1%2F9ee%2F74e%2Fce19ee74e0964deb763ce375cf3e2f71.jpg" alt="Mbappe" width="400">
     </section>
 
     <section id="salah">
         <h2>Mohamed Salah</h2>
         <p>Mohamed Salah es un futbolista egipcio que juega para el Liverpool en la Premier League. Es conocido por su velocidad, regate y capacidad para marcar goles. Salah ha sido fundamental para el éxito de su equipo y ha ganado varios títulos, incluido la Liga de Campeones de la UEFA.</p> 
+    <img src="https://assets.goal.com/images/v3/bltb9c1555d420b1d87/GOAL%20-%20Blank%20WEB%20-%20Facebook%20-%202024-08-18T185849.997.png?auto=webp&format=pjpg&width=3840&quality=60" alt="Salah" width="400">
     </section>
 
     <script>
