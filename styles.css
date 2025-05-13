@@ -1,88 +1,26 @@
-/* Reset básico */
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  line-height: 1.6;
-  background-color: #f4f4f4;
-  color: #333;
-}
-
-/* Header */
-header {
-  background-color: #4CAF50;
-  color: white;
-  padding: 1rem 0;
-  text-align: center;
-}
-
-/* Navegación */
-nav {
-  background-color: #333;
-}
-
-nav ul {
-  list-style: none;
-  display: flex;
-  justify-content: center;
-}
-
-nav ul li {
-  margin: 0;
-}
-
-nav ul li a {
-  display: block;
-  padding: 1rem;
-  color: white;
-  text-decoration: none;
-}
-
-nav ul li a:hover {
-  background-color: #575757;
-}
-
-/* Contenido principal */
-main {
-  padding: 2rem;
-  background-color: white;
-  max-width: 900px;
-  margin: 2rem auto;
-  border-radius: 8px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
-
-/* Footer */
-footer {
-  background-color: #333;
-  color: white;
-  text-align: center;
-  padding: 1rem 0;
-  position: relative;
-  bottom: 0;
-  width: 100%;
-}
-body {
-    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
 }
 
 header {
     background-color: #4CAF50;
     color: white;
     text-align: center;
-    padding: 1em;
+    padding: 1rem;
 }
 
 nav ul {
+    list-style: none;
     display: flex;
     justify-content: center;
-    list-style: none;
     padding: 0;
 }
 
@@ -92,27 +30,24 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #333;
+    color: white;
+    background-color: #333;
+    padding: 10px;
 }
 
-main {
+nav ul li a:hover {
+    background-color: #575757;
+}
+
+section {
+    margin: 20px;
     padding: 20px;
+    background: white;
+    border-radius: 8px;
 }
 
-footer {
-    background-color: #f1f1f1;
-    text-align: center;
-    padding: 1em;
-}
-
-/* Responsividad */
 @media (max-width: 600px) {
     nav ul {
         flex-direction: column;
         align-items: center;
     }
-
-    nav ul li {
-        margin: 10px 0;
-    }
-}
